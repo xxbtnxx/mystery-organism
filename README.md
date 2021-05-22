@@ -1,2 +1,2 @@
 # mystery-organism
-codecademy project
+codecademy javascript project
